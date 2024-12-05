@@ -1,1 +1,1 @@
-# TechAcademy2.0
+# TechAcademy
